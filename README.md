@@ -1,0 +1,2 @@
+# LeetCode278_firstBadVersion_cpp
+力扣第278题cpp代码，二分查找第一个出错的版本，注意while语句要用小于号而不是小于等于号，附带测试代码
